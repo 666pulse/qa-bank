@@ -1,0 +1,30 @@
+Nervos的合伙人不包括？,Satoshi Nakamoto,Daniel,Terry,,Nervos
+以下对 ReBirth 描述错误的是？,分布式的, 可以为 Microscope 提供缓存,使用 PostgreSQL 数据库,, Nervos
+Neuron 不能做？,托管 EOS 账户, 多链资产管理,多链 DApp 访问,,Nervos
+以下描述 Nervos 错误的是？,使用 DPOS 方式挖矿,使用简单高效的 ckb-vm 虚拟机,采用 Cell 模型取代账户模型,,Nervos
+Nervos 总部在哪？,杭州, 上海,北京,, Nervos
+Nervos 使用什么方式挖矿？,POW, DAG, DPOS,,Nervos
+Nervos Layer1 的核心是？,CKB,ZEC,MMM,, Nervos
+CITA 属于什么类型的链？,联盟链,公有链,私有链,, Nervos
+CITA 使用什么语言开发的？,Rust,Golang,Ruby,, Nervos
+以下不属于 Nervos AppChain 组件的是？,Truffle,CITA,Microscope,, Nervos
+下面关于以太坊叔块的说法错误的是？,叔块不能进入主链，所以是完全无效的,以太坊的出区块时间比较短，更容易出现临时分叉，才有了叔块机制,以太坊最多可以有 2 个叔块,, Blockchain
+目前在以太坊发币使用最广泛的协议是？,ERC20,BIP20,ERC55,, Blockchain
+以太坊一个块的确认时间大约是？,15 秒,10 分钟,2.5 分钟,, Blockchain
+以下属于稳定币的是？,USDT,EOS,ETH,, Blockchain
+比特币属于什么类型的链？,公有链,联盟链,私有链,, Blockchain
+以太坊一天大概出多少块？,5760,144,216000,, Blockchain
+以下哪个不是区块链的特性？,升值慢,去中心化,不可篡改,, Blockchain
+比特币披萨节是哪一天？,5月22日,6月18日,11月11日,, Blockchain
+比特币使用什么P2P协议进行通讯？,Gossip,HTTP,DHT,, Blockchain
+比特币连接主网的默认端口是？, 8333,8000,18300,, Blockchain
+以下比特币与以太坊相同的是？, 挖矿方式都是POW,都支持智能合约,总量恒定,, Blockchain
+2的256次方 这个数有多少位？, 78,20,滚犊子,,Blockchain
+比特币的挖矿方式是？,POW,DPOS,DAG,, Blockchain
+HD钱包是指？,分层确定性钱包,硬件钱包,高可靠性钱包,, Blockchain
+以太坊创世块诞生于？,2015-07-30 03:26:13,2012-07-30 03:26:13,2016-01-03 03:26:13,, Blockchain
+以下哪个是比特币的测试网地址？,mjUcbu6BytKoC7YiEkqPxB1sc6U7nnjFse,14xfJr1DArtYR156XBs28FoYk6sQqirT2s,0x05a56e2d52c817161...f50c441c4d9f,,Blockchain
+以太坊的智能合约语言是？,Solidity,C++,Golang,,Blockchain
+比特币挖矿大概到什么时候结束？,2140年,2050年,2150 年,,Blockchain
+比特币的精确总量是多少？, 20999999.9769, 21000000,20000949.9769,,Blockchain
+比特币创世块诞生于？, 2009-01-03 18:15:05,2008-11-05 18:15:05,2010-02-28 18:15:05,, Blockchain
