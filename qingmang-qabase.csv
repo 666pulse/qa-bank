@@ -1,3 +1,4 @@
+题目,正确答案,错误答案1,错误答案2,,分类
 Nervos的合伙人不包括？,Satoshi Nakamoto,Daniel,Terry,,Nervos
 以下对 ReBirth 描述错误的是？,分布式的, 可以为 Microscope 提供缓存,使用 PostgreSQL 数据库,, Nervos
 Neuron 不能做？,托管 EOS 账户, 多链资产管理,多链 DApp 访问,,Nervos
@@ -27,4 +28,4 @@ HD钱包是指？,分层确定性钱包,硬件钱包,高可靠性钱包,, Blockc
 以太坊的智能合约语言是？,Solidity,C++,Golang,,Blockchain
 比特币挖矿大概到什么时候结束？,2140年,2050年,2150 年,,Blockchain
 比特币的精确总量是多少？, 20999999.9769, 21000000,20000949.9769,,Blockchain
-比特币创世块诞生于？, 2009-01-03 18:15:05,2008-11-05 18:15:05,2010-02-28 18:15:05,, Blockchain
+比特币创世块诞生于？, UTC: 2009-01-03 18:15:05, UTC: 2008-11-05 18:15:05, UTC: 2010-02-28 18:15:05,, Blockchain
